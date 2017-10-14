@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentDemo</string>
+    <string name="btn1">启动一个Activity</string>
+    <string name="content">我是hello </string>
+    <string name="btn2">拨打电话</string>
+    <string name="btn3">发送短信</string>
+    <string name="btn4">打开网页</string>
+    <string name="btn5">播放音频</string>
+</resources>
